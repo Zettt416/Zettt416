@@ -1,26 +1,27 @@
 <h1 align="center">Hi, I'm Zetra 👋</h1>
 <p align="center">
-  <em>building things to automate my way to freedom.</em>
+  <em>Building things to automate my way to freedom.</em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zettt416&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Zettt416&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ### ☕ About Me
-Developer yang fokus bikin tools praktis dan aplikasi ringan. Suka eksplorasi ekosistem mobile & web, menyederhanakan masalah rumit jadi script/aplikasi yang berguna.
 
-- 🛠️ Sedang mendalami **Kotlin** & **Dart (Flutter)**.
-- ⚡ Sering bikin utility tools berbasis **JavaScript / Node.js**.
-- 🎯 Filosofi: Buat sesuatu yang simpel, efisien, dan benar-benar menyelesaikan masalah.
+I'm a software developer focused on crafting practical utilities and lightweight applications. I enjoy exploring mobile and web ecosystems, turning everyday friction into clean, automated solutions.
+
+- 🛠️ Currently exploring **Kotlin** & **Dart (Flutter)**.
+- ⚡ Frequently building small tools with **JavaScript / Node.js**.
+- 🎯 Core philosophy: Keep it simple, avoid unnecessary bloat, and build things that genuinely solve problems.
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages & Frameworks:**
+**Languages & Runtime:**
 ```text
 Kotlin  •  Dart  •  JavaScript  •  Node.js  •  HTML/CSS
 ```
@@ -32,25 +33,25 @@ Git  •  GitHub  •  VS Code  •  Android Studio
 
 ---
 
-### 📌 Repositori Pilihan
+### 📌 Featured Repositories
 
-| Project | Keterangan | Tech |
+| Repository | Description | Tech |
 | :--- | :--- | :--- |
-| 🛡️ **[HardcorezBlocker](https://github.com/Zettt416/HardcorezBlocker)** | Utility blocker & helper tool | Kotlin |
-| ⚡ **[HardcorezForge](https://github.com/Zettt416/HardcorezForge)** | Tooling & workspace automation | Dart |
-| 🔄 **[url-to-md-converter](https://github.com/Zettt416/url-to-md-converter)** | Web content to clean markdown converter | JavaScript |
-| 📖 **[Alkitabz](https://github.com/Zettt416/Alkitabz)** | Digital reader application | Dart |
+| 🛡️ **[HardcorezBlocker](https://github.com/Zettt416/HardcorezBlocker)** | Utility blocker & background helper | Kotlin |
+| ⚡ **[HardcorezForge](https://github.com/Zettt416/HardcorezForge)** | Tooling & workflow automation | Dart |
+| 🔄 **[url-to-md-converter](https://github.com/Zettt416/url-to-md-converter)** | Web content to clean Markdown converter | JavaScript |
+| 📖 **[Alkitabz](https://github.com/Zettt416/Alkitabz)** | Clean digital reader application | Dart |
 
 ---
 
-### 📈 Aktivitas GitHub
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zettt416&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Statistik GitHub Zettt416" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zettt416&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Zetra's GitHub Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Dibuat dengan kesederhanaan • Tetap tenang dan terus menulis kode.</sub>
+  <sub>Crafted with simplicity • Staying quiet and building things.</sub>
 </p>
