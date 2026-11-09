@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Zetra 👋</h1>
 <p align="center">
-  <em>Building things to automate my way to freedom.</em>
+  <em>Building offline-first, privacy-respecting software to automate my way to freedom.</em>
 </p>
 
 <p align="center">
@@ -11,24 +11,24 @@
 
 ### ☕ About Me
 
-I'm a software developer focused on crafting practical utilities and lightweight applications. I enjoy exploring mobile and web ecosystems, turning everyday friction into clean, automated solutions.
+Software developer specializing in privacy-first, offline-first mobile and web utilities. I build tools that respect user data, eliminate cloud dependency, and solve real everyday problems without unnecessary bloat.
 
-- 🛠️ Currently exploring **Kotlin** & **Dart (Flutter)**.
-- ⚡ Frequently building small tools with **JavaScript / Node.js**.
-- 🎯 Core philosophy: Keep it simple, avoid unnecessary bloat, and build things that genuinely solve problems.
+- 🛡️ Passionate about **privacy-first Android engineering** and offline architectures.
+- 🛠️ Tech focus: **Kotlin**, **Flutter/Dart**, and lightweight **JavaScript/TypeScript**.
+- 🎯 Philosophy: Zero tracker, zero telemetry, local-first execution.
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages & Runtime:**
+**Languages & Frameworks:**
 ```text
-Kotlin  •  Dart  •  JavaScript  •  Node.js  •  HTML/CSS
+Kotlin  •  Dart (Flutter)  •  JavaScript  •  Node.js  •  React
 ```
 
 **Tools & Environment:**
 ```text
-Git  •  GitHub  •  VS Code  •  Android Studio
+Android Studio  •  VS Code  •  Git  •  Chrome Extensions (Manifest V3)
 ```
 
 ---
@@ -37,21 +37,15 @@ Git  •  GitHub  •  VS Code  •  Android Studio
 
 | Repository | Description | Tech |
 | :--- | :--- | :--- |
-| 🛡️ **[HardcorezBlocker](https://github.com/Zettt416/HardcorezBlocker)** | Utility blocker & background helper | Kotlin |
-| ⚡ **[HardcorezForge](https://github.com/Zettt416/HardcorezForge)** | Tooling & workflow automation | Dart |
-| 🔄 **[url-to-md-converter](https://github.com/Zettt416/url-to-md-converter)** | Web content to clean Markdown converter | JavaScript |
-| 📖 **[Alkitabz](https://github.com/Zettt416/Alkitabz)** | Clean digital reader application | Dart |
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zettt416&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Zetra's GitHub Stats" />
-</p>
+| 🛡️ **[HardcorezBlocker](https://github.com/Zettt416/HardcorezBlocker)** | 100% offline, privacy-first spam call & phishing SMS shield for Android | Kotlin |
+| ⚡ **[HardcorezForge](https://github.com/Zettt416/HardcorezForge)** | 100% offline mobile office suite (Docs, Sheets, Slides, PDF Signing) | Flutter / Dart |
+| 📖 **[Alkitabz](https://github.com/Zettt416/Alkitabz)** | Multi-version Holy Bible with Audio TTS and 100% offline-first reading | Flutter / Dart |
+| 🔄 **[url-to-md-converter](https://github.com/Zettt416/url-to-md-converter)** | Fast API docs extractor & web-to-Markdown converter for LLMs & Obsidian | JavaScript |
+| 🛡️ **[whatsapp-privacy-browser-extension](https://github.com/Zettt416/whatsapp-privacy-browser-extension)** | Privacy screen & anti-shoulder-surfing shield for WhatsApp Web | Chrome MV3 |
+| 🕹️ **[clone-starfall-breakout-mlbb](https://github.com/Zettt416/clone-starfall-breakout-mlbb)** | Zero-bloat, 8-bit retro arcade space runner built with native HTML5 Canvas | Vanilla JS |
 
 ---
 
 <p align="center">
-  <sub>Crafted with simplicity • Staying quiet and building things.</sub>
+  <sub>Crafted with simplicity • 100% offline-first • Staying quiet and building things.</sub>
 </p>
